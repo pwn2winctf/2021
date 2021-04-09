@@ -36,7 +36,7 @@ Toda ajuda na divulgação é muito bem-vinda, e por enquanto você pode utiliza
 
 [@pwn2win](https://twitter.com/pwn2win) (Twitter)
 
-[@eltctfbr)](https://twitter.com/eltctfbr) (Twitter)
+[@eltctfbr](https://twitter.com/eltctfbr) (Twitter)
 
 [@eltctfbr](https://linkedin.com/in/eltctfbr) (LinkedIn)
 
