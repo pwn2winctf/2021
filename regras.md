@@ -131,9 +131,15 @@ A equipe vencedora será a que pontuar mais dentro das 48 horas. Em caso de empa
 
 ## PATROCINADORES:
 
+### Platinum
+[![](https://pwn2win.party/imgs/elevenpaths.png)](https://www.elevenpaths.com/)
+
+### Gold
+
+
+### Infra Sponsor
 [![](https://pwn2win.party/imgs/gcp.png)](https://g.co/cloud/)
 
-Em breve anunciaremos mais patrocinadores.
 
 
 ## PARCEIROS:
@@ -144,5 +150,3 @@ Em breve anunciaremos mais patrocinadores.
 ## CONTATO:
 
 Em caso de dúvidas, contate-nos pelo e-mail elt *at* ctf-br dot org.
-
-
