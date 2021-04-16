@@ -87,9 +87,14 @@ The winner team will be the one to score the largest within the 48 hours. In the
 
 ## Sponsors:
 
-[![](https://pwn2win.party/imgs/gcp.png)](https://g.co/cloud)
+### Platinum
+[![](https://pwn2win.party/imgs/elevenpaths1.png)](https://www.elevenpaths.com/)
 
-Stay tuned for more.
+### Gold
+[![](https://pwn2win.party/imgs/bughunt_logo.png)](https://www.bughunt.com.br/)
+
+### Infra Sponsor
+[![](https://pwn2win.party/imgs/gcp.png)](https://g.co/cloud/)
 
 
 ## Partners:
