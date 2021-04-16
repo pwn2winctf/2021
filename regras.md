@@ -132,10 +132,10 @@ A equipe vencedora será a que pontuar mais dentro das 48 horas. Em caso de empa
 ## PATROCINADORES:
 
 ### Platinum
-[![](https://pwn2win.party/imgs/elevenpaths.png)](https://www.elevenpaths.com/)
+[![](https://pwn2win.party/imgs/elevenpaths1.png)](https://www.elevenpaths.com/)
 
 ### Gold
-
+[![](https://pwn2win.party/imgs/bughunt_logo.png)](https://www.bughunt.com.br/)
 
 ### Infra Sponsor
 [![](https://pwn2win.party/imgs/gcp.png)](https://g.co/cloud/)
@@ -150,3 +150,5 @@ A equipe vencedora será a que pontuar mais dentro das 48 horas. Em caso de empa
 ## CONTATO:
 
 Em caso de dúvidas, contate-nos pelo e-mail elt *at* ctf-br dot org.
+
+
