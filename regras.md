@@ -138,7 +138,7 @@ A equipe vencedora será a que pontuar mais dentro das 48 horas. Em caso de empa
 [![](https://pwn2win.party/imgs/bughunt_logo.png)](https://www.bughunt.com.br/)
 
 ### Infra Sponsor
-[![](https://pwn2win.party/imgs/gcp.png)](https://g.co/cloud/)
+[![](https://pwn2win.party/imgs/gcp_logo.png)](https://g.co/cloud/)
 
 
 
