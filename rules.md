@@ -94,7 +94,7 @@ The winner team will be the one to score the largest within the 48 hours. In the
 [![](https://pwn2win.party/imgs/bughunt_logo.png)](https://www.bughunt.com.br/)
 
 ### Infra Sponsor
-[![](https://pwn2win.party/imgs/gcp_logo1.png)](https://g.co/cloud/)
+[![](https://pwn2win.party/imgs/gcp_logo.png)](https://g.co/cloud/)
 
 
 ## Partners:
