@@ -132,7 +132,7 @@ A equipe vencedora será a que pontuar mais dentro das 48 horas. Em caso de empa
 ## PATROCINADORES:
 
 ### Platinum
-[![](https://pwn2win.party/imgs/elevenpaths1.png)](https://www.elevenpaths.com/)
+[![](https://pwn2win.party/imgs/telefonicatech.jpg)](https://www.telefonica.com/)
 
 ### Gold
 [![](https://pwn2win.party/imgs/bughunt_logo.png)](https://www.bughunt.com.br/)
