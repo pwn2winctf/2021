@@ -31,7 +31,7 @@ Soon.
 
 ## Prizes:
 
-**Top 1**: Internet Fame level Gold + Personalized Certificates + Awesome T-Shirts
+**Top 1**: **DEF CON Finals Spot** + Personalized Certificates + Awesome T-Shirts
 
 **Top 2:** Internet Fame level Silver + Personalized Certificates + Awesome T-Shirts
 
