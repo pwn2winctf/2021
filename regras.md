@@ -71,7 +71,7 @@ Para saber mais, utilize os recursos abaixo:
 
 **GLOBAL:**
 
-**Top 1**: Internet Fame level Gold + Certificados Personalizados\* + Camisas
+**Top 1**: **DEF CON Finals Spot** + Certificados Personalizados\* + Camisas
 
 **Top 2:** Internet Fame level Silver + Certificados Personalizados + Camisas
 
