@@ -34,13 +34,13 @@ Todos os interessados por desafios em geral e computação (segurança da inform
 
 Toda ajuda na divulgação é muito bem-vinda, e por enquanto você pode utilizar nossas redes sociais compartilhar ou retweetar as postagens referentes ao evento: 
 
-#### Pwn2WIn
-<a href='https://twitter.com/pwn2win'><img src='./assets/twitter.png' alt='Twitter' /></a>
+[@pwn2win](https://twitter.com/pwn2win) (Twitter)
 
-#### ELT
-<a href='https://instagram.com/eltctfbr'><img src='./assets/instagram.png' alt='Instagram' /></a>
-<a href='https://linkedin.com/in/eltctfbr'><img src='./assets/linkedin.png' alt='Linkedin' /></a>
-<a href='https://twitter.com/eltctfbr'><img src='./assets/twitter.png' alt='Twitter' /></a>
+[@eltctfbr](https://twitter.com/eltctfbr) (Twitter)
+
+[@eltctfbr](https://linkedin.com/in/eltctfbr) (LinkedIn)
+
+[@eltctfbr](https://instagram.com/eltctfbr) (Instagram)
 
 Também é possível colar o cartaz da história (em breve) na sua Universidade, Local de Trabalho, divulgar em Sites e Grupos de TI e Infosec, etc.
 
@@ -152,4 +152,3 @@ A equipe vencedora será a que pontuar mais dentro das 48 horas. Em caso de empa
 Em caso de dúvidas, contate-nos pelo e-mail elt *at* ctf-br dot org.
 
 
-[![twitter](link_da_img_do_twitter)](https://twitter.com/eltctfbr?s=09)
