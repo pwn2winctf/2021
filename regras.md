@@ -17,7 +17,7 @@ O principal objetivo do Pwn2Win CTF é ajudar a promover o maravilhoso mundo das
 
 ### Inscrições:
 
-Em breve.
+As inscrições estão abertas!
 
 
 ### Para jogar:
