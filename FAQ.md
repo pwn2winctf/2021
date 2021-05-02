@@ -4,7 +4,7 @@ We are using a simplified version of [NIZKCTF](https://arxiv.org/pdf/1708.05844.
 
 **Registration:**
 
-One account per team. If you want to receive job offers and invititation for private bug bounty programs, from our Platinum Sponsors, check the box at the registration moment.
+One account per team. If you want to receive job offers and invititations to sponsor's private bug bounty programs, check the box at the registration moment.
 
 **Source:**
 
