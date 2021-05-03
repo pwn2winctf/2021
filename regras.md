@@ -32,7 +32,7 @@ Todos os interessados por desafios em geral e computação (segurança da inform
 
 ### Deseja ajudar na divulgação?
 
-Toda ajuda na divulgação é muito bem-vinda, e por enquanto você pode utilizar nossas redes sociais compartilhar ou retweetar as postagens referentes ao evento: 
+Toda ajuda na divulgação é muito bem-vinda! Você pode utilizar nossas redes sociais compartilhar ou retweetar as postagens referentes ao evento: 
 
 [@pwn2win](https://twitter.com/pwn2win) (Twitter)
 
@@ -42,7 +42,7 @@ Toda ajuda na divulgação é muito bem-vinda, e por enquanto você pode utiliza
 
 [@eltctfbr](https://instagram.com/eltctfbr) (Instagram)
 
-Também é possível colar o cartaz da história (em breve) na sua Universidade, Local de Trabalho, divulgar em Sites e Grupos de TI e Infosec, etc.
+Também é possível colar o [cartaz da história](https://pwn2win.party/imgs/Pwn2Win-2021.jpg) na sua Universidade, Local de Trabalho, divulgar em Sites e Grupos de TI e Infosec, etc.
 
 
 ### O que são CTFs?
