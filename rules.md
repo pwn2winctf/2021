@@ -77,12 +77,12 @@ Ok, and now, for the more informative rules...
 
 Our judges will be the operators in the **#Pwn2Win** channel (Freenode). Any Doubts, talk to them.
 
-Like in the second edition,  we'll do a **Thematic CTF**. Every challenge context will revolve around a fictional story. Also the Jeopardy challenges, inside various categories (including subjects like **Hardware Hacking**). We choose to use a dynamic scoreboard system, where all challenges starts with 500 points, and according to the amount of solves, they decrease the score.
+Like we have done since the second edition,  we'll do a **Thematic CTF**. Every challenge context will revolve around a fictional story. Also, the Jeopardy challenges will revolve around various categories (including subjects like **Hardware Hacking**). We chose to use a dynamic scoreboard system, where all challenges start with 500 points, and according to the amount of solves, the score decreases.
 
 
 ## Winner:
 
-The winner team will be the one to score the largest within the 48 hours. In the case of a tie, the team that got to their score first will be crowned winner.
+The winner team will be the one which score the largest within the 48 hours. In the case of a tie, the team that got to their score first will be crowned winner.
 
 
 ## Sponsors:
