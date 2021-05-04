@@ -104,6 +104,6 @@ The winner team will be the one which score the largest within the 48 hours. In 
 
 ## Contact:
 
-If you have any questions, contact us in our e-mail elt *at* ctf-br dot org.
+If you have any questions, contact us: elt *at* ctf-br dot org.
 
 
