@@ -26,7 +26,8 @@ Registration is now open!
 
 ## Illustration:
 
-[here](https://pwn2win.party/imgs/Pwn2Win-2021.jpg)
+[![here](https://pwn2win.party/imgs/Pwn2Win-2021-thumb.jpg)](https://pwn2win.party/imgs/Pwn2Win-2021.jpg)
+
 
 ## Prizes:
 

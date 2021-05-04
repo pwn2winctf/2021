@@ -45,6 +45,11 @@ Toda ajuda na divulgação é muito bem-vinda! Você pode utilizar nossas redes 
 Também é possível colar o [cartaz da história](https://pwn2win.party/imgs/Pwn2Win-2021.jpg) na sua Universidade, Local de Trabalho, divulgar em Sites e Grupos de TI e Infosec, etc.
 
 
+## Ilustração
+
+[![aqui](https://pwn2win.party/imgs/Pwn2Win-2021-thumb.jpg)](https://pwn2win.party/imgs/Pwn2Win-2021.jpg)
+
+
 ### O que são CTFs?
 
 CTF significa Capture the Flag. No âmbito da informática, são competições que envolvem diversas competências dos profissionais/estudantes/entusiastas para a resolução de desafios relacionados à infosec (segurança da informação), com o objetivo de capturar a bandeira (normalmente um código) e pontuar.
