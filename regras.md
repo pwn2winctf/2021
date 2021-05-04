@@ -2,7 +2,7 @@
 
 ### Quem está organizando?
 
-O **CTF Pwn2Win** está sendo organizado pelos membros do [Epic Leet Team](https://epicleet.team), time brasileiro que participa de eventos do gênero.
+O **CTF Pwn2Win** está sendo organizado pelos membros do [Epic Leet Team](https://epicleet.team), time brasileiro que participa de eventos do gênero, em parceria com a [Universidade Federal de São Carlos](https://www2.ufscar.br) por meio da atividade ProEx número 23112.007213/2021-33.
 
 
 ### Objetivo:

@@ -1,6 +1,6 @@
 ## Who is behind it?
 
-The Pwn2Win CTF is being organized by members from '[Epic Leet Team](https://ctftime.org/team/9061)', a Brazilian CTF team.
+The Pwn2Win CTF is being organized by members from '[Epic Leet Team](https://ctftime.org/team/9061)', a Brazilian CTF team, in partnership with the [Federal University of São Carlos](https://www2.ufscar.br) through ProEx activity number 23112.007213/2021-33.
 
 
 ## When:
