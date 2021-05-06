@@ -38,7 +38,7 @@ Toda ajuda na divulgação é muito bem-vinda! Você pode utilizar nossas redes 
 
 [@eltctfbr](https://twitter.com/eltctfbr) (Twitter)
 
-[@eltctfbr](https://linkedin.com/in/eltctfbr) (LinkedIn)
+[@eltctfbr](https://linkedin.com/company/eltctfbr) (LinkedIn)
 
 [@eltctfbr](https://instagram.com/eltctfbr) (Instagram)
 
