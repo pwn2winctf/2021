@@ -60,19 +60,19 @@ Let's start with the rules - specifically what you and your team CANNOT do. :)
 
 Ok, and now, for the more informative rules...
 
-**5** - Our official channel is the **#Pwn2Win** on the Freenode (irc.freenode.net), and it's essential that all players stay there during the competition in case there are important announcements.
+**6** - Our official channel is the **#Pwn2Win** on the Freenode (irc.freenode.net), and it's essential that all players stay there during the competition in case there are important announcements.
 
-**6** - The teams may have as many members as they want;
+**7** - The teams may have as many members as they want;
 
-**7** - We will broadcast lots of relevant information through our IRC channel, stay alert! :)
+**8** - We will broadcast lots of relevant information through our IRC channel, stay alert! :)
 
-**8** - The flag pattern will be as follows: **CTF-BR{something_here};**
+**9** - The flag pattern will be as follows: **CTF-BR{something_here};**
 
-**9** - The competition will last for 48 hours in a row, no breaks;
+**10** - The competition will last for 48 hours in a row, no breaks;
 
-**10** - Any kind of violation of these rules will mean immediate disqualification of the team;
+**11** - Any kind of violation of these rules will mean immediate disqualification of the team;
 
-**11** - Most important rule: Have fun and Learn a lot! :)
+**12** - Most important rule: Have fun and Learn a lot! :)
 
 
 ## Operation:
