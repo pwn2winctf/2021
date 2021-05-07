@@ -107,19 +107,21 @@ Começamos pela parte burocrática, ou seja, o que você e seu time **NÃO** pod
 
 **4**.  Não compartilhe descobertas referentes aos desafios publicamente no canal do IRC, nem de qualquer outra forma com as equipes concorrentes.
 
-**5**.  Nosso canal oficial é o **#Pwn2Win** na rede Freenode (irc.freenode.net), e é essencial que todos players fiquem por lá no período da competição.
+**5**.  É proibido mudar de time durante a competição.
 
-**6**.  Os times poderão ter quantos membros desejarem.
+**6**.  Nosso canal oficial é o **#Pwn2Win** na rede Freenode (irc.freenode.net), e é essencial que todos players fiquem por lá no período da competição.
 
-**7**.  Muitas informações relevantes serão divulgadas pelo canal de IRC, fiquem atentos! :)
+**7**.  Os times poderão ter quantos membros desejarem.
 
-**8**.  O Padrão das flags será o seguinte: **CTF-BR{algo_aqui}**
+**8**.  Muitas informações relevantes serão divulgadas pelo canal de IRC, fiquem atentos! :)
 
-**9**.  A competição terá duração de 48 horas **consecutivas**, sem intervalo.
+**9**.  O Padrão das flags será o seguinte: **CTF-BR{algo_aqui}**
 
-**10**. Qualquer tipo de violação às regras acarretará em **desclassificação** da equipe.
+**10**.  A competição terá duração de 48 horas **consecutivas**, sem intervalo.
 
-**11**. Regra mais importante: **divirta-se e aprenda muito! :)**
+**11**. Qualquer tipo de violação às regras acarretará em **desclassificação** da equipe.
+
+**12**. Regra mais importante: **divirta-se e aprenda muito! :)**
 
 
 ## FUNCIONAMENTO:
