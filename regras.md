@@ -57,7 +57,7 @@ CTF significa Capture the Flag. No âmbito da informática, são competições q
 
 ### Tipos de CTFs:
 
-Existem dois tipos de CTFs, os Jeopardy-style (estilo Quiz), que normalmente são online e servem como Qualificatórias para as Finais de Attack/Defense, que são realizadas on-site (offline). 
+Existem dois tipos de CTFs, os Jeopardy-style, que normalmente são online e servem como Qualificatórias para as Finais de Attack/Defense, que são realizadas on-site (offline). 
 
 **Attack/Defense:** de forma genérica, as equipes recebem uma VM com diversos serviços (alguns vulneráveis), e o objetivo é capturar as bandeiras alheias e proteger as do seu time com patchs.
 
