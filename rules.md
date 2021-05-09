@@ -56,7 +56,7 @@ Let's start with the rules - specifically what you and your team CANNOT do. :)
 
 **4** - Do NOT share recent discoveries related to challenges publicly on IRC channels, nor in any other way with contestants of other teams;
 
-**5** - It's not allowed changing your team during the competition.
+**5** - It's not allowed to switch from one team to another team during the competition.
 
 Ok, and now, for the more informative rules...
 
