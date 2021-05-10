@@ -10,7 +10,7 @@ May 28 (Friday), to be started at 13:37 BRT (UTC -3), for 48 hours straight.
 
 ## Sign in:
 
-Registration is now open!
+Registration is [now open!](https://pwn2.win/signup)
 
 
 ## Follow us:
