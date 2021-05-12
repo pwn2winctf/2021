@@ -144,7 +144,7 @@ A equipe vencedora será a que pontuar mais dentro das 48 horas. Em caso de empa
 ### Gold
 [![](https://pwn2win.party/imgs/bughunt_logo.png)](https://www.bughunt.com.br/)
 
-[![](https://pwn2win.party/imgs/pride_logo1.png)](http://pridesec.com.br/)
+[![](https://pwn2win.party/imgs/pride_logo2.png)](http://pridesec.com.br/)
 
 ### Silver
 [![](https://pwn2win.party/imgs/resh_logo.png)](https://resh.com.br)
