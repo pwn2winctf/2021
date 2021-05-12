@@ -95,7 +95,7 @@ The winner team will be the one which score the largest within the 48 hours. In 
 ### Gold
 [![](https://pwn2win.party/imgs/bughunt_logo.png)](https://www.bughunt.com.br/)
 
-[![](https://pwn2win.party/imgs/pride_logo1.png)](https://pridesec.com.br)
+[![](https://pwn2win.party/imgs/pride_logo2.png)](https://pridesec.com.br)
 
 ### Silver
 [![](https://pwn2win.party/imgs/resh_logo.png)](https://resh.com.br)
