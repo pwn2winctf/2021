@@ -42,12 +42,12 @@ Toda ajuda na divulgação é muito bem-vinda! Você pode utilizar nossas redes 
 
 [@eltctfbr](https://instagram.com/eltctfbr) (Instagram)
 
-Também é possível colar o [cartaz da história](https://pwn2win.party/imgs/Pwn2Win-2021.jpg) na sua Universidade, Local de Trabalho, divulgar em Sites e Grupos de TI e Infosec, etc.
+Também é possível colar o [cartaz da história](https://pwn2win.party/imgs/Pwn2Win-2021.png) na sua Universidade, Local de Trabalho, divulgar em Sites e Grupos de TI e Infosec, etc.
 
 
 ## Ilustração
 
-[![aqui](https://pwn2win.party/imgs/Pwn2Win-2021-thumb.jpg)](https://pwn2win.party/imgs/Pwn2Win-2021.jpg)
+[![aqui](https://pwn2win.party/imgs/Pwn2Win-2021-thumb.png)](https://pwn2win.party/imgs/Pwn2Win-2021.png)
 
 
 ### O que são CTFs?
