@@ -105,7 +105,7 @@ Começamos pela parte burocrática, ou seja, o que você e seu time **NÃO** pod
 
 **3**.  Não tente trocar *flags* ou *write-ups* durante a competição, nós vamos descobri-lo. ;)
 
-**4**.  Não compartilhe descobertas referentes aos desafios publicamente no canal do Discord, nem de qualquer outra forma com as equipes concorrentes.
+**4**.  Não compartilhe descobertas referentes aos desafios publicamente no Discord, nem de qualquer outra forma com as equipes concorrentes.
 
 **5**.  É proibido mudar de time durante a competição.
 
