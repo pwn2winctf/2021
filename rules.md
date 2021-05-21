@@ -54,30 +54,28 @@ Let's start with the rules - specifically what you and your team CANNOT do. :)
 
 **3** - Do NOT try to exchange flags or write-ups during the competition;
 
-**4** - Do NOT share recent discoveries related to challenges publicly on IRC channels, nor in any other way with contestants of other teams;
+**4** - Do NOT share recent discoveries related to challenges publicly on Discord channels, nor in any other way with contestants of other teams;
 
 **5** - It's not allowed to switch from one team to another team during the competition.
 
 Ok, and now, for the more informative rules...
 
-**6** - Our official channel is the **#Pwn2Win** on the Freenode (irc.freenode.net), and it's essential that all players stay there during the competition in case there are important announcements.
+**6** - Our official channel is on Discord (https://discord.gg/yku9WhKgjj), and it's essential that all players stay there during the competition in case there are important announcements.
 
 **7** - The teams may have as many members as they want;
 
-**8** - We will broadcast lots of relevant information through our IRC channel, stay alert! :)
+**8** - The flag pattern will be as follows: **CTF-BR{something_here};**
 
-**9** - The flag pattern will be as follows: **CTF-BR{something_here};**
+**9** - The competition will last for 48 hours in a row, no breaks;
 
-**10** - The competition will last for 48 hours in a row, no breaks;
+**10** - Any kind of violation of these rules will mean immediate disqualification of the team;
 
-**11** - Any kind of violation of these rules will mean immediate disqualification of the team;
-
-**12** - Most important rule: Have fun and Learn a lot! :)
+**11** - Most important rule: Have fun and Learn a lot! :)
 
 
 ## Operation:
 
-Our judges will be the operators in the **#Pwn2Win** channel (Freenode). Any Doubts, talk to them.
+Our judges will be the Admins on Discord. Any questions, talk to them.
 
 Like we have done since the second edition,  we'll do a **Thematic CTF**. Every challenge context will revolve around a fictional story. Also, the Jeopardy challenges will revolve around various categories (including subjects like **Hardware Hacking**). We chose to use a dynamic scoreboard system, where all challenges start with 500 points, and according to the amount of solves, the score decreases.
 
