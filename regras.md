@@ -105,15 +105,15 @@ Começamos pela parte burocrática, ou seja, o que você e seu time **NÃO** pod
 
 **3**.  Não tente trocar *flags* ou *write-ups* durante a competição, nós vamos descobri-lo. ;)
 
-**4**.  Não compartilhe descobertas referentes aos desafios publicamente no canal do IRC, nem de qualquer outra forma com as equipes concorrentes.
+**4**.  Não compartilhe descobertas referentes aos desafios publicamente no canal do Discord, nem de qualquer outra forma com as equipes concorrentes.
 
 **5**.  É proibido mudar de time durante a competição.
 
-**6**.  Nosso canal oficial é o **#Pwn2Win** na rede Freenode (irc.freenode.net), e é essencial que todos players fiquem por lá no período da competição.
+**6**.  Nosso canal oficial de comunicação é no Discord (https://discord.gg/yku9WhKgjj), e é essencial que todos players fiquem por lá no período da competição.
 
 **7**.  Os times poderão ter quantos membros desejarem.
 
-**8**.  Muitas informações relevantes serão divulgadas pelo canal de IRC, fiquem atentos! :)
+**8**.  Muitas informações relevantes serão divulgadas pelo canal de Discord, fiquem atentos! :)
 
 **9**.  O Padrão das flags será o seguinte: **CTF-BR{algo_aqui}**
 
@@ -126,7 +126,7 @@ Começamos pela parte burocrática, ou seja, o que você e seu time **NÃO** pod
 
 ## FUNCIONAMENTO:
 
-Os juízes serão os operadores do canal **#Pwn2Win** na Freenode. Dúvidas, converse com eles.
+A Staff são os Admins no Discord. Dúvidas, converse com eles.
 
 Nosso CTF será **temático**. Todos os *challenges* estarão ambientados em um contexto específico de uma história fictícia. Dessa vez, optamos por utilizar um sistema de *scoreboard* dinâmico, no qual todos *challenges* começam com 500 pontos, e conforme a quantidade de *solves*, vão diminuindo de pontuação. 
 
