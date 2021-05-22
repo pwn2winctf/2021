@@ -109,7 +109,7 @@ Começamos pela parte burocrática, ou seja, o que você e seu time **NÃO** pod
 
 **5**.  É proibido mudar de time durante a competição.
 
-**6**.  Nosso canal oficial de comunicação é no Discord (https://discord.gg/yku9WhKgjj), e é essencial que todos players fiquem por lá no período da competição.
+**6**.  Nosso canal oficial de comunicação é no [Discord](https://discord.gg/yku9WhKgjj), e é essencial que todos players fiquem por lá no período da competição.
 
 **7**.  Os times poderão ter quantos membros desejarem.
 
