@@ -60,7 +60,7 @@ Let's start with the rules - specifically what you and your team CANNOT do. :)
 
 Ok, and now, for the more informative rules...
 
-**6** - Our official communication channel is on Discord (https://discord.gg/yku9WhKgjj), and it's essential that all players stay there during the competition in case there are important announcements.
+**6** - Our official communication channel is on [Discord](https://discord.gg/yku9WhKgjj), and it's essential that all players stay there during the competition in case there are important announcements.
 
 **7** - The teams may have as many members as they want;
 
