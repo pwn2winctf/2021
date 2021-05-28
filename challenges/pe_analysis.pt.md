@@ -10,6 +10,8 @@ Faça login como Player para iniciar o serviço vulnerável.
 * **Server:** [http://pe-analysis-1.pwn2win.party:1337](http://pe-analysis-1.pwn2win.party:1337)
 * **Server Backup:** [http://pe-analysis-2.pwn2win.party:1337](http://pe-analysis-2.pwn2win.party:1337)
 
+**Autor:** [n0ps13d](https://github.com/saullocarvalho)
+
 [Arquivos](https://static.pwn2win.party/pe_analysis_0dc26833115790aa8136b398c989b30ab7c4f9de688d17a0171ecb0321df86cd.tar.gz)
 
 [Mirror](https://drive.google.com/file/d/1Y6ki3IhxOYet-jvzi4VaCFKRpPnhn-z6/view?usp=drivesdk)

@@ -2,9 +2,13 @@
  {
   "msg": "Registration is open! We are looking forward to see you playing Pwn2Win 2021 on May 28. And now you can fight for a spot at DEF CON Finals!!",
   "time": 1619961082
- }, 
+ },
  {
-  "msg": "Given the popular demand, we are moving the official Pwn2Win chat from IRC to Discord, at https://discord.com/invite/yku9WhKgjj", 
+  "msg": "Given the popular demand, we are moving the official Pwn2Win chat from IRC to Discord, at https://discord.com/invite/yku9WhKgjj",
   "time": 1621678929
+ },
+ {
+  "msg": "Challenges are online! Submissions will be accepted starting at 13:37 UTC-3",
+  "time": 1622219799
  }
 ]
