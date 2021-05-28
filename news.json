@@ -22,5 +22,9 @@
  {
   "msg": "Ruthless Monster: Attachment files have been updated. Please download them again",
   "time": 1622233394
+ },
+ {
+  "msg": "CloudSQL instance resized. Now we should not have database slowness anymore. We will keep monitoring it.",
+  "time": 1622236666
  }
 ]
