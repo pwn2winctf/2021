@@ -42,5 +42,9 @@
  {
   "msg": "Kangurei: There was a small bug fix, which did not affect the resolution. Please download the files again.",
   "time": 1622308161
+ },
+ {
+  "msg": "You asked, we made it! Now you can make the FPGA LEDs blink and see them live on https://www.twitch.tv/thotypous",
+  "time": 1622311576
  }
 ]
