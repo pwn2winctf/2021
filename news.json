@@ -46,5 +46,9 @@
  {
   "msg": "You asked, we made it! Now you can make the FPGA LEDs blink and see them live on https://www.twitch.tv/thotypous",
   "time": 1622311576
+ },
+ {
+  "msg": "A piece of enlightenment for Enlighten Me challenges: Host and Guest machines runs the same driver with different flags only",
+  "time": 1622312668
  }
 ]
