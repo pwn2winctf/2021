@@ -2,6 +2,7 @@ Por favor, me ajude! Os caras do mau estão usando esse servidor para enviar arq
 Você conseguiria interceptar um desses arquivos para mim? 
 
 Ps: Os servidores é resetado a cada N minutos
+
 Ps2: Os caras do mal enviam o arquivo a cada 15 segundos
 
 [Arquivos](https://static.pwn2win.party/ruthless_monster_8729385d83a2eca8551193f73bc617cbdb942d96ef5a50b513182595bf9c2d78.tar.gz)
