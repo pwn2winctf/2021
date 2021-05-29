@@ -6,3 +6,4 @@ It looks like the leaders of the city-state of Rhiza are using an odd password m
 
 
 **Server:** nc baby-writeonly-password-manager.pwn2win.party 1337
+**Server Backup:** nc baby-writeonly-password-manager-2.pwn2win.party 1337
