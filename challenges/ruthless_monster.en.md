@@ -4,10 +4,9 @@ Could you intercept one of these files to me?
 Ps: The servers are rebooted every N minutes
 Ps2: The bad guys send the file every 15 seconds.
 
-[Files](https://static.pwn2win.party/ruthless_monster_a43cde47dba88408662431a1a755ff6f84a0e2bb95ccc6810374c16c8a0f567b.tar.gz)
+[Files](https://static.pwn2win.party/ruthless_monster_8729385d83a2eca8551193f73bc617cbdb942d96ef5a50b513182595bf9c2d78.tar.gz)
 
-[Mirror](https://drive.google.com/file/d/12jSCKogd-LJ0cJCm-T1vx2WLaMqNCf8j/view?usp=drivesdk)
-
+[Mirror](https://drive.google.com/file/d/1JXKUiGk7gDs7ExLzBrdR2X1U9Fr17vh3/view?usp=drivesdk)
 
 **Server:** [https://ruthless.monster](https://ruthless.monster)
 
