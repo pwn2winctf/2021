@@ -2,6 +2,8 @@ Laura é muito curiosa e acabou descobrindo que os líderes da cidade-estado de 
 
 **ATENÇÃO:** O binário foi compilado usando o conjunto de ferramentas para ARM dos repositórios oficiais do Ubuntu 16.04.
 
+**ATENÇÃO:** Nem todos os hosts aos quais ele tenta conectar devem estar online. Por favor tente todas as hierarquias possíveis.
+
 Autores: [thotypous](https://github.com/thotypous), [n0ps13d](https://github.com/saullocarvalho)
 
 [Arquivos](https://static.pwn2win.party/highest_power_2eb2514185a9e040b2a3004f0edfa8550aaf2fe3de0976cd4600f79ba7499d50.tar.gz)
