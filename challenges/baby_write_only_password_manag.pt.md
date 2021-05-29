@@ -6,3 +6,5 @@ Parece que os líderes da cidade-estado de Rhiza estão utilizando um gerenciado
 
 
 **Server:** nc baby-writeonly-password-manager.pwn2win.party 1337
+
+**Server Backup:** nc baby-writeonly-password-manager-2.pwn2win.party 1337
