@@ -22,5 +22,9 @@
  {
   "msg": "CloudSQL instance resized. Now we should not have database slowness anymore. We will keep monitoring it.",
   "time": 1622236666
+ },
+  {
+  "msg": "The flag for 'Ruthless Monster' was updated, if you solved, try again!",
+  "time": 1622267180
  }
 ]
