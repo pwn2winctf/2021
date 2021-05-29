@@ -12,6 +12,8 @@ Infelizmente, a cápsula do tempo contém apenas o código fonte do codificador.
 
 Aproveite que o planeta ainda não foi devastado! Existem muitos receptores KiwiSDR, OpenWebRX e WebSDR públicos na internet. Utilize esses receptores para gravar o áudio da transmissão. Você também pode consultar o [histórico da WSPRNet](https://wsprnet.org/olddb?mode=html&band=all&limit=10000&findcall=PU2UID&findreporter=&sort=date) para verificar quais regiões do planeta estão recebendo o sinal em um dado momento, ou programar-se sabendo quais regiões costumam recebê-lo em determinado horário.
 
+Ou simplesmente use um receptor próximo, que deve ser capaz de receber o sinal **a todo momento**: [https://pu2uid.duckdns.org](https://pu2uid.duckdns.org).
+
 Recomendamos que você faça, o mais cedo possível, **pelo menos** 4 gravações do sinal com boa relação sinal ruído (SNR) e com pouco *fading*. Comece a gravar as transmissões mesmo antes de implementar o seu decodificador.
 
 **Autores**: [thotypous](https://github.com/thotypous), [racerxdl](https://github.com/racerxdl)

@@ -12,6 +12,8 @@ Unfortunately, the time capsule contains only the encoder's source code. Can you
 
 Use to your advantage that the planet has not yet been devastated! There are many public KiwiSDR, OpenWebRX and WebSDR receivers on the internet. Use these receivers to record the audio from the transmitter. You can also look at the [WSPRNet history](https://wsprnet.org/olddb?mode=html&band=all&limit=10000&findcall=PU2UID&findreporter=&sort=date) to observe which regions of the planet are receiving the signal at any given time. Schedule future recordings based on the knowledge of which areas usually receive the beacons at a particular time of the day.
 
+Or just use a nearby receiver, that should be able to receive the signal at **all times**: [https://pu2uid.duckdns.org](https://pu2uid.duckdns.org).
+
 We recommend that you record, as soon as possible, **at least** 4 broadcasts of the signal with a good signal-to-noise ratio (SNR) and without significant fading. Start recording the broadcasts even before implementing your decoder.
 
 **Authors**: [thotypous](https://github.com/thotypous), [racerxdl](https://github.com/racerxdl)
