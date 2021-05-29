@@ -15,9 +15,7 @@ We are releasing two options for you to run the environment and **do your tests 
     $ docker-compose up
     $ nc localhost 1337
 
-[Docker Files](https://static.pwn2win.party/oldschool_adventures_appleii_8f8e654e8f259af68c3973fe023c9799eb62c9c214f96f125fbdea603c73160e_docker.tar.gz)
-
-[Docker Mirror](https://drive.google.com/file/d/1aN311v9w5jZaclVI99o5Fss5lPwE4Lca/view?usp=drivesdk)
+[Docker Files](https://static.pwn2win.party/oldschool_adventures_appleii_0cd428eea828e4712ef92a1075a2c6718b6032f75bb0ce0fcaa514049fcb1b57_docker.tar.gz)
    
 **LXC Container:**
 
