@@ -10,4 +10,6 @@ Ps2: The bad guys send the file every 15 seconds.
 
 **Server:** [https://ruthless.monster](https://ruthless.monster)
 
+**Server Backup:** [https://second.ruthless.monster/](https://second.ruthless.monster/)
+
 **Author:** geolado
