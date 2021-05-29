@@ -50,5 +50,9 @@
  {
   "msg": "A piece of enlightenment for Enlighten Me challenges: Host and Guest machines runs the same driver with different flags only",
   "time": 1622312668
+ },
+ {
+  "msg": "WSPR Decoy: Propagation is not our friend this afternoon. You may want to use a local SDR receiver: https://pu2uid.duckdns.org",
+  "time": 1622313189
  }
 ]
