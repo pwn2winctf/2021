@@ -30,5 +30,9 @@
  {
   "msg": "We have a new instance for Baby write-only password manager at baby-writeonly-password-manager-2.pwn2win.party.",
   "time": 1622283539
+ },
+  {
+  "msg": "Oldschool Adventures - Apple II: There was a cypress version update this week that broke our Dockerfile. If you want to use it (instead of LXC), download the files again or just replace npm install cypress with npm install cypress@7.3.0 (if you already downloaded)",
+  "time": 1622301056
  }
 ]
