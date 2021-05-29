@@ -11,4 +11,6 @@ Ps2: Os caras do mal enviam o arquivo a cada 15 segundos
 
 **Server:** [https://ruthless.monster](https://ruthless.monster)
 
+**Server Backup:** [https://second.ruthless.monster/](https://second.ruthless.monster/)
+
 **Author:** geolado
