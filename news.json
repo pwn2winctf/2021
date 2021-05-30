@@ -54,5 +54,9 @@
  {
   "msg": "WSPR Decoy: Propagation is not our friend this afternoon. You may want to use a local SDR receiver: https://pu2uid.duckdns.org",
   "time": 1622313189
+ },
+ {
+  "msg": "6 hours left!!! If you want, you can give your feedback at https://bit.ly/pwn2win-2021-feedback",
+  "time": 1622370962
  }
 ]
